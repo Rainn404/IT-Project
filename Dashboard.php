@@ -5,6 +5,6 @@
     <title>Document</Dashboard>
 </head>
 <body>
-    <h1>Welcome</h1>
+    <h1>Welcome to my galery</h1>
 </body>
 </html>
