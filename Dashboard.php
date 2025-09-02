@@ -11,9 +11,6 @@ if (!isset($_SESSION["username"])) {
     <title>Dashboard</title>
 </head>
 <body>
-    <h2>Selamat Datang, <?php echo $_SESSION["username"]; ?>!</h2>
-    <p>Ini adalah halaman dashboard setelah login.</p>
-    <a href="Home.php">Ke Halaman Home</a> | 
-    <a href="Logout.php">Logout</a>
+    <h1>Welcome</h1>
 </body>
 </html>
