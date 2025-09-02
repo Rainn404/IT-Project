@@ -6,5 +6,6 @@
 </head>
 <body>
     <h1>Welcome to my galery</h1>
+    <h1>Welcome Semuanya</h1>
 </body>
 </html>
