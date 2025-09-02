@@ -49,7 +49,7 @@
 </head>
 <body>
   <div class="card">
-    <h1>Halo Selamat Datang 👋</h1>
+    <h1>Hii👋</h1>
     <form>
       <input type="email" placeholder="Email" required>
       <input type="password" placeholder="Password" required>
