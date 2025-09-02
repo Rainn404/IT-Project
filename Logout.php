@@ -5,6 +5,6 @@
     <title>Logout</title>
 </head>
 <body>
-    <h1>Saya Mau Tidur</h1>
+    <h1>Saya Mau makan</h1>
 </body>
 </html>
