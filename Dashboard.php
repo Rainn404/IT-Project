@@ -6,5 +6,6 @@
 </head>
 <body>
     <h1>Welcome to my galery</h1>
+    <h2>Kami kelompok 5</h2>
 </body>
 </html>
